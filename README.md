@@ -1,4 +1,5 @@
 # Lecture
 A lecture on system engineering
 
-Based on SEBoK
+The list of literature:
+1. SEBoK
